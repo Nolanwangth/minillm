@@ -9,7 +9,7 @@
 
 ```bash
 conda activate minillm_env
-cd /Users/nolan/Desktop/AGI/minillm
+cd /Users/nolan/Desktop/agi/minillm
 ```
 
 ---
